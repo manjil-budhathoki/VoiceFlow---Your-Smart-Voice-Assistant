@@ -22,7 +22,7 @@
 
 Here's a quick look at the Manjil AI interface:
 
-![Manjil AI Screenshot](screenshot.png)
+![VoiceFlow Screenshot](voiceflow.png)
 
 ---
 
@@ -48,7 +48,6 @@ Here's a quick look at the Manjil AI interface:
 git clone https://github.com/manjil-budhathoki/VoiceFlow---Your-Smart-Voice-Assistant.git
 cd VoiceFlow
 ```
-
 
 ### 2. Install required packages
 
