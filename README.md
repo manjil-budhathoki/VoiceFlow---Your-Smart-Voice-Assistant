@@ -115,7 +115,7 @@ Yes! You can customize the system prompt in the code.
 
 ## 🙌 Credits
 
-Made with ❤️ by [Manjil Budhathoki](https://github.com/yourusername)
+Made with ❤️ by [Manjil Budhathoki](https://github.com/manjil-budhathoki)
 
 Inspired by Gemini AI, Streamlit, and all things voice-enabled.
 
