@@ -45,7 +45,7 @@ Here's a quick look at the Manjil AI interface:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/manjil-ai.git
+git clone [https://github.com/yourusername/manjil-ai.git](https://github.com/manjil-budhathoki/VoiceFlow---Your-Smart-Voice-Assistant.git)
 cd VoiceFlow
 ```
 
